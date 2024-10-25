@@ -3,12 +3,6 @@
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV (PE)(R)" tvg-logo="" group-title="TV-PERU",ATV (PE)(R)
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal 44 (tot)" tvg-logo="" group-title="TV-PERU",Cadena HD - Huancayo
-https://tv.ondadigital.pe:1936/master/master/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-name="Canal Ipe (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="TV-PERU",Canal Ipe (1080p)
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CANAL N (PE)(R)" tvg-logo="" group-title="TV-PERU",CANAL N (PE)(R)
-http://daleplay.club:80/play/wSesxmjT7STUSKJmXMuYpR_nROJcBZzfdQw6sx_14rXQ4f66Whv3GEMyA-G2Y8Xh/ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Exitosa TV (tot)" tvg-logo="" group-title="TV-PERU",Exitosa TV (tot)
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina (720p)" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="TV-PERU",Latina (720p)
@@ -35,28 +29,18 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162557
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162545
 #EXTINF:-1 tvg-id="ext" tvg-name="CTV Peru" tvg-logo="" group-title="TV-PERU",CTV Peru
 https://live-evg4.tv360.bitel.com.pe/bitel/ctv/chunks.m3u8?manifestfilter=video_bitrate:1-4194304&uid=1236119
-#EXTINF:-1 tvg-id="ext" tvg-name="IPE (PE)(R)" tvg-logo="" group-title="TV-PERU",IPE (PE)(R)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162559
 #EXTINF:-1 tvg-id="PeruChannel.br" tvg-name="Peru Channel (720p)" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="TV-PERU",PeruChannel (720p)
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Asiri TelevisiÛn" tvg-logo="" group-title="TV-PERU",Asiri TelevisiÛn
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RBC - Peru" tvg-logo="" group-title="TV-PERU",RBC - Peru
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="USILTV.pe" tvg-name="Usil TV (720p) [not 24/7]" tvg-logo="https://i.imgur.com/9OXF9EK.png" group-title="TV-PERU",Usil TV (720p) [not 24/7]
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Peru Magico HD (PE)(R)" tvg-logo="" group-title="TV-PERU",Peru Magico HD (PE)(R)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162553
 #EXTINF:-1 tvg-id="ext" tvg-name="Television Nacional (tot)" tvg-logo="" group-title="TV-PERU",Television Nacional (tot)
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Miel TV" tvg-logo="" group-title="TV-PERU",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Justicia TV" tvg-logo="" group-title="TV-PERU",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Food Network HD" tvg-logo="" group-title="TV-PERU",Food Network HD
-http://190.61.55.186:1010/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Peru Magico (PE)(R)" tvg-logo="" group-title="TV-PERU",Peru Magico (PE)(R)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162560
 #EXTINF:-1 tvg-id="ext" tvg-name="VNP || Lima" tvg-logo="" group-title="TV-PERU",VNP || Lima
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Intuitiva TV" tvg-logo="" group-title="TV-PERU",Intuitiva TV
@@ -67,6 +51,52 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV+" tvg-logo="" group-title="TV-PERU",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Movistar Deportes SD" tvg-logo="" group-title="TV_PERU1",PE | Movistar Deportes SD
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186611
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Exitosa" tvg-logo="" group-title="TV_PERU1",PE | Exitosa
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12881
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Canal N " tvg-logo="" group-title="TV_PERU1",PE | Canal N 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12891
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | RPP " tvg-logo="" group-title="TV_PERU1",PE | RPP 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12893
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Latina FHD " tvg-logo="" group-title="TV_PERU1",PE | Latina FHD 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21772
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Gol Per√ FHD " tvg-logo="" group-title="TV_PERU1",PE | Gol Per√ FHD 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21773
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | TV Per√ " tvg-logo="" group-title="TV_PERU1",PE | TV Per√ 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21774
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Canal IPE " tvg-logo="" group-title="TV_PERU1",PE | Canal IPE 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/41899
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Per√ Magico " tvg-logo="" group-title="TV_PERU1",PE | Per√ Magico 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/52170
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | ATV " tvg-logo="" group-title="TV_PERU1",PE | ATV 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/64666
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | TV Per√ Noticias" tvg-logo="" group-title="TV_PERU1",PE | TV Per√ Noticias
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/64667
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Gol Per√ " tvg-logo="" group-title="TV_PERU1",PE | Gol Per√ 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/69495
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Directv Sports +" tvg-logo="" group-title="TV_PERU1",PE | Directv Sports +
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/69954
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Am√©rica TV FHD" tvg-logo="" group-title="TV_PERU1",PE | Am√©rica TV FHD
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/102641
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Am√©rica TV HD " tvg-logo="" group-title="TV_PERU1",PE | Am√©rica TV HD 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/102643
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Latina TV " tvg-logo="" group-title="TV_PERU1",PE | Latina TV 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186626
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Willax HD" tvg-logo="" group-title="TV_PERU1",PE | Willax HD
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/190542
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Willax  SD" tvg-logo="" group-title="TV_PERU1",PE | Willax  SD
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/192235
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Panamericana " tvg-logo="" group-title="TV_PERU1",PE | Panamericana 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/192237
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Frecuencia Latina" tvg-logo="" group-title="TV_PERU1",PE | Frecuencia Latina
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/203615
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Onda Digital" tvg-logo="" group-title="TV_PERU1",PE | Onda Digital
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/214970
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | ATV + SD" tvg-logo="" group-title="TV_PERU1",PE | ATV + SD
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/220992
+#EXTINF:-1 tvg-id="ext" tvg-name="PE | Movistar Plus" tvg-logo="" group-title="TV_PERU1",PE | Movistar Plus
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/230754
 #EXTINF:-1 tvg-id="ext" tvg-name="PANAMERICANA (PE)(R)" tvg-logo="" group-title="TV_PERU1",PANAMERICANA (PE)(R)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162542
 #EXTINF:-1 tvg-id="ext" tvg-name="Latina HD (PE)(R)" tvg-logo="" group-title="TV_PERU1",Latina HD (PE)(R)
@@ -28740,52 +28770,6 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259317
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/33519
 #EXTINF:-1 tvg-id="ext" tvg-name="DEP ES | Movistar Golf HD" tvg-logo="" group-title="Otros",DEP ES | Movistar Golf HD
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/33526
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Movistar Deportes SD" tvg-logo="" group-title="Otros",PE | Movistar Deportes SD
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186611
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Exitosa" tvg-logo="" group-title="Otros",PE | Exitosa
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12881
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Canal N " tvg-logo="" group-title="Otros",PE | Canal N 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12891
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | RPP " tvg-logo="" group-title="Otros",PE | RPP 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12893
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Latina FHD " tvg-logo="" group-title="Otros",PE | Latina FHD 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21772
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Gol Per√ FHD " tvg-logo="" group-title="Otros",PE | Gol Per√ FHD 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21773
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | TV Per√ " tvg-logo="" group-title="Otros",PE | TV Per√ 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21774
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Canal IPE " tvg-logo="" group-title="Otros",PE | Canal IPE 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/41899
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Per√ Magico " tvg-logo="" group-title="Otros",PE | Per√ Magico 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/52170
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | ATV " tvg-logo="" group-title="Otros",PE | ATV 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/64666
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | TV Per√ Noticias" tvg-logo="" group-title="Otros",PE | TV Per√ Noticias
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/64667
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Gol Per√ " tvg-logo="" group-title="Otros",PE | Gol Per√ 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/69495
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Directv Sports +" tvg-logo="" group-title="Otros",PE | Directv Sports +
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/69954
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Am√©rica TV FHD" tvg-logo="" group-title="Otros",PE | Am√©rica TV FHD
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/102641
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Am√©rica TV HD " tvg-logo="" group-title="Otros",PE | Am√©rica TV HD 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/102643
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Latina TV " tvg-logo="" group-title="Otros",PE | Latina TV 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186626
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Willax HD" tvg-logo="" group-title="Otros",PE | Willax HD
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/190542
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Willax  SD" tvg-logo="" group-title="Otros",PE | Willax  SD
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/192235
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Panamericana " tvg-logo="" group-title="Otros",PE | Panamericana 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/192237
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Frecuencia Latina" tvg-logo="" group-title="Otros",PE | Frecuencia Latina
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/203615
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Onda Digital" tvg-logo="" group-title="Otros",PE | Onda Digital
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/214970
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | ATV + SD" tvg-logo="" group-title="Otros",PE | ATV + SD
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/220992
-#EXTINF:-1 tvg-id="ext" tvg-name="PE | Movistar Plus" tvg-logo="" group-title="Otros",PE | Movistar Plus
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/230754
 #EXTINF:-1 tvg-id="ext" tvg-name="EN | Kanal D Drama FHDè" tvg-logo="" group-title="Otros",EN | Kanal D Drama FHDè
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/183185
 #EXTINF:-1 tvg-id="ext" tvg-name="EN | A3Series" tvg-logo="" group-title="Otros",EN | A3Series
