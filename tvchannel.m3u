@@ -12,7 +12,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO Digital (720p) [not 24/7]" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="TV-PERU",PBO Digital (720p) [not 24/7]
 https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 #EXTINF:-1 tvg-id="Unitel.pe" tvg-name="Unitel (huancayo) (720p) [not 24/7]" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="TV-PERU",Unitel (huancayo) (720p) [not 24/7]
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RPP (PE)(R)" tvg-logo="" group-title="TV-PERU",RPP (PE)(R)
 http://daleplay.club:80/play/wSesxmjT7STUSKJmXMuYpR_nROJcBZzfdQw6sx_14rWvzYQh2iguIkroX_DzNhsB/ts
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Perú_Noticias_-_2019_logo.png/512px-TV_Perú_Noticias_-_2019_logo.png" group-title="TV-PERU",TV Peru Noticias
@@ -126,13 +126,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Univision" tvg-logo="" group-title="TV-INTERNACIONAL",Univision
 http://vp-txpro.com:80/Beaner/2mUBdhDRNmzM/52231
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-name="Euronews Espanol" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="TV-INTERNACIONAL",Euronews Espanol
-https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/d26f3455373c3c6f14d857bc6034d66e.m3u8
-#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-name="Euronews Espanol" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="TV-INTERNACIONAL",Euronews Espanol
-https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Euronews TV (tot)" tvg-logo="" group-title="TV-INTERNACIONAL",Euronews TV (tot)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Espa?ol (1080p)" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="TV-INTERNACIONAL",France 24 Espa?ol (1080p)
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="652e922db4b047000825f975" tvg-name="Milenio Televisi?n" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" group-title="TV-INTERNACIONAL",Milenio Televisi?n
 https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CAnal 10 " tvg-logo="" group-title="TV-INTERNACIONAL",RT - Ruso
