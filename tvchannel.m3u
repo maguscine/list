@@ -49,6 +49,66 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV+" tvg-logo="" group-title="TV-PERU",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Andes Televisión 
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Auténtica Televisión
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Canal 8 Catacaos
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Canal IPe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",CGTN Español 
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Clan TVE Internacional 
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Cultura 24 
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",FUL HD
+https://live.obslivestream.com/cumo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",DMJ Cuzco
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",otros
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",EWTN el Canal Católic
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",FANPOP
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Genios TV 
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Golden TV
+https://bozztv.com/gusa/gusa-goldentv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Hispan TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Identidad TV
+https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Impacto Televisión 
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Intuitiva TV
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",MAX Anime
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Mega TV Jaen
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Miel TV 
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Millenium 109 FM
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",NorSelva RTV
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Novelisima
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",HD
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Señal Perú TV
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Telecanal
+https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV-PERU",Teleselva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="PE | Movistar Deportes SD" tvg-logo="" group-title="TV_PERU1",PE | Movistar Deportes SD
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186611
 #EXTINF:-1 tvg-id="ext" tvg-name="PE | Exitosa" tvg-logo="" group-title="TV_PERU1",PE | Exitosa
