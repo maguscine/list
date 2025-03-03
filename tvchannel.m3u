@@ -1,4 +1,292 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="01.5AmericaTV" tvg-logo="" group-title="peru5",01.5AmericaTV
+http://200.60.124.19:29000/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="01.6Latina" tvg-logo="" group-title="peru5",01.6Latina
+http://200.60.124.19:29000/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="02.1ATV" tvg-logo="" group-title="peru5",02.1ATV
+http://200.60.124.19:29000/play/a04t/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="02.2Panamericana TV" tvg-logo="" group-title="peru5",02.2Panamericana TV
+http://200.60.124.19:29000/play/a04s/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="03.1Discovery Channel" tvg-logo="" group-title="peru5",03.1Discovery Channel
+http://200.60.124.19:29000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="03.3Lifetime" tvg-logo="" group-title="peru5",03.3Lifetime
+http://200.60.124.19:29000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="03.4Animal Planet" tvg-logo="" group-title="peru5",03.4Animal Planet
+http://200.60.124.19:29000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="03.4Discovery Turbo" tvg-logo="" group-title="peru5",03.4Discovery Turbo
+http://200.60.124.19:29000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="03.6Cinemax" tvg-logo="" group-title="peru5",03.6Cinemax
+http://200.60.124.19:29000/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="03.7FX" tvg-logo="" group-title="peru5",03.7FX
+http://200.60.124.19:29000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="04.5Disney Channel" tvg-logo="" group-title="peru5",04.5Disney Channel
+http://200.60.124.19:29000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="04.6BabyFirst" tvg-logo="" group-title="peru5",04.6BabyFirst
+http://200.60.124.19:29000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="04.7Nickelodeon" tvg-logo="" group-title="peru5",04.7Nickelodeon
+http://200.60.124.19:29000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="04.8Nick Jr" tvg-logo="" group-title="peru5",04.8Nick Jr
+http://200.60.124.19:29000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="05.1Space" tvg-logo="" group-title="peru5",05.1Space
+http://200.60.124.19:29000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="05.2Sony" tvg-logo="" group-title="peru5",05.2Sony
+http://200.60.124.19:29000/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="06.3AE Mundo" tvg-logo="" group-title="peru5",06.3AE Mundo
+http://200.60.124.19:29000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="06.4E Entertainment" tvg-logo="" group-title="peru5",06.4E Entertainment
+http://200.60.124.19:29000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="06.5TLC" tvg-logo="" group-title="peru5",06.5TLC
+http://200.60.124.19:29000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="06.6ViaX" tvg-logo="" group-title="peru5",06.6ViaX
+http://200.60.124.19:29000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="07.1Warner" tvg-logo="" group-title="peru5",07.1Warner
+http://200.60.124.19:29000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="07.3STAR CHANNEL SD" tvg-logo="" group-title="peru5",07.3STAR CHANNEL SD
+http://200.60.124.19:29000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="07.4SyFy" tvg-logo="" group-title="peru5",07.4SyFy
+http://200.60.124.19:29000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="07.5TCM" tvg-logo="" group-title="peru5",07.5TCM
+http://200.60.124.19:29000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="07.7Universal" tvg-logo="" group-title="peru5",07.7Universal
+http://200.60.124.19:29000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="07.8AXN" tvg-logo="" group-title="peru5",07.8AXN
+http://200.60.124.19:29000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="09.1ESPN 1" tvg-logo="" group-title="peru5",09.1ESPN 1
+http://200.60.124.19:29000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="10.2 WILLAX" tvg-logo="" group-title="peru5",10.2 WILLAX
+http://200.60.124.19:29000/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="11.1ESPN 2 Latin" tvg-logo="" group-title="peru5",11.1ESPN 2 Latin
+http://200.60.124.19:29000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="11.2ESPN 3" tvg-logo="" group-title="peru5",11.2ESPN 3
+http://200.60.124.19:29000/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="11.3ESPN 4" tvg-logo="" group-title="peru5",11.3ESPN 4
+http://200.60.124.19:29000/play/a04y/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="12.2Canal Claro" tvg-logo="" group-title="peru5",12.2Canal Claro
+http://200.60.124.19:29000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="13.1 Discovery ID" tvg-logo="" group-title="peru5",13.1 Discovery ID
+http://200.60.124.19:29000/play/a04v/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="13.4 HomeandHealth" tvg-logo="" group-title="peru5",13.4 HomeandHealth
+http://200.60.124.19:29000/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="14.3Telemundo" tvg-logo="" group-title="peru5",14.3Telemundo
+http://200.60.124.19:29000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="14.4RCN Novelas" tvg-logo="" group-title="peru5",14.4RCN Novelas
+http://200.60.124.19:29000/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="14.5 TNT Novelas" tvg-logo="" group-title="peru5",14.5 TNT Novelas
+http://200.60.124.19:29000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="15.1 ESPN 7" tvg-logo="" group-title="peru5",15.1 ESPN 7
+http://200.60.124.19:29000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="15.2ESPN 6" tvg-logo="" group-title="peru5",15.2ESPN 6
+http://200.60.124.19:29000/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="16.3Enlace" tvg-logo="" group-title="peru5",16.3Enlace
+http://200.60.124.19:29000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="7.6 TNT" tvg-logo="" group-title="peru5",7.6 TNT
+http://200.60.124.19:29000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="A&E" tvg-logo="" group-title="peru5",A&E
+http://200.60.124.19:29000/play/a0fi/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="" group-title="peru5",AMC
+http://200.60.124.19:29000/play/a0fn/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV HD" tvg-logo="" group-title="peru5",ATV HD
+http://200.60.124.19:29000/play/a0bb/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="" group-title="peru5",AXN
+http://200.60.124.19:29000/play/a0fh/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="America TV HD" tvg-logo="" group-title="peru5",America TV HD
+http://200.60.124.19:29000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="America TV PY" tvg-logo="" group-title="peru5",America TV PY
+http://200.60.124.19:29000/play/a09q/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="" group-title="peru5",Animal Planet
+http://200.60.124.19:29000/play/a0f2/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="BETHEL TV" tvg-logo="" group-title="peru5",BETHEL TV
+http://200.60.124.19:29000/play/a0e8/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="CNN Chile" tvg-logo="" group-title="peru5",CNN Chile
+http://200.60.124.19:29000/play/a09z/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="CUBAVISION" tvg-logo="" group-title="peru5",CUBAVISION
+http://200.60.124.19:29000/play/a0e7/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Estrellas" tvg-logo="" group-title="peru5",Canal Estrellas
+http://200.60.124.19:29000/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal N" tvg-logo="" group-title="peru5",Canal N
+http://200.60.124.19:29000/play/a0ba/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="peru5",Cartoon Network
+http://200.60.124.19:29000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinecanal" tvg-logo="" group-title="peru5",Cinecanal
+http://200.60.124.19:29000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Claro Cinema" tvg-logo="" group-title="peru5",Claro Cinema
+http://200.60.124.19:29000/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Comedy Central" tvg-logo="" group-title="peru5",Comedy Central
+http://200.60.124.19:29000/play/a0fj/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="DHE HD" tvg-logo="" group-title="peru5",DHE HD
+http://200.60.124.19:29000/play/a0fx/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="DirecTv Sport HD" tvg-logo="" group-title="peru5",DirecTv Sport HD
+http://200.60.124.19:29000/play/a081/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery H&H HD" tvg-logo="" group-title="peru5",Discovery H&H HD
+http://200.60.124.19:29000/play/a0aq/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Theater HD" tvg-logo="" group-title="peru5",Discovery Theater HD
+http://200.60.124.19:29000/play/a0c7/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 2 HD" tvg-logo="" group-title="peru5",ESPN 2 HD
+http://200.60.124.19:29000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 3 HD" tvg-logo="" group-title="peru5",ESPN 3 HD
+http://200.60.124.19:29000/play/a0ca/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 4HD" tvg-logo="" group-title="peru5",ESPN 4HD
+http://200.60.124.19:29000/play/a0c9/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 6HD" tvg-logo="" group-title="peru5",ESPN 6HD
+http://200.60.124.19:29000/play/a0cb/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="El Gourmet" tvg-logo="" group-title="peru5",El Gourmet
+http://200.60.124.19:29000/play/a0f5/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="France 24" tvg-logo="" group-title="peru5",France 24
+http://200.60.124.19:29000/play/a09o/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="GLOBAL" tvg-logo="" group-title="peru5",GLOBAL
+http://200.60.124.19:29000/play/a0bc/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Family" tvg-logo="" group-title="peru5",HBO Family
+http://200.60.124.19:29000/play/a0fo/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Plus" tvg-logo="" group-title="peru5",HBO Plus
+http://200.60.124.19:29000/play/a0fq/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Signature" tvg-logo="" group-title="peru5",HBO Signature
+http://200.60.124.19:29000/play/a0fr/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO XTREME" tvg-logo="" group-title="peru5",HBO XTREME
+http://200.60.124.19:29000/play/a0fp/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="History Channel" tvg-logo="" group-title="peru5",History Channel
+http://200.60.124.19:29000/play/a0f4/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ID HD" tvg-logo="" group-title="peru5",ID HD
+http://200.60.124.19:29000/play/a0f6/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="L1MAX HD" tvg-logo="" group-title="peru5",L1MAX HD
+http://200.60.124.19:29000/play/a07k/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Las Estrellas" tvg-logo="" group-title="peru5",Las Estrellas
+http://200.60.124.19:29000/play/a0f7/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Latina HD" tvg-logo="" group-title="peru5",Latina HD
+http://200.60.124.19:29000/play/a072/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV" tvg-logo="" group-title="peru5",MTV
+http://200.60.124.19:29000/play/a0f9/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV 00s" tvg-logo="" group-title="peru5",MTV 00s
+http://200.60.124.19:29000/play/a0fw/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV LIVE HD" tvg-logo="" group-title="peru5",MTV LIVE HD
+http://200.60.124.19:29000/play/a0ft/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic" tvg-logo="" group-title="peru5",National Geographic
+http://200.60.124.19:29000/play/a0f3/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Panamericana HD" tvg-logo="" group-title="peru5",Panamericana HD
+http://200.60.124.19:29000/play/a0b7/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Paramount HD" tvg-logo="" group-title="peru5",Paramount HD
+http://200.60.124.19:29000/play/a0c1/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pasiones" tvg-logo="" group-title="peru5",Pasiones
+http://200.60.124.19:29000/play/a0fl/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="RADIO BETHEL" tvg-logo="" group-title="peru5",RADIO BETHEL
+http://200.60.124.19:29000/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sin Limites" tvg-logo="" group-title="peru5",Sin Limites
+http://200.60.124.19:29000/play/a09p/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT HD" tvg-logo="" group-title="peru5",TNT HD
+http://200.60.124.19:29000/play/a0c8/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT Series HD" tvg-logo="" group-title="peru5",TNT Series HD
+http://200.60.124.19:29000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TV PERU" tvg-logo="" group-title="peru5",TV PERU
+http://200.60.124.19:29000/play/a0b9/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TVE SD" tvg-logo="" group-title="peru5",TVE SD
+http://200.60.124.19:29000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TyC" tvg-logo="" group-title="peru5",TyC
+http://200.60.124.19:29000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" group-title="peru5",UNIVERSAL CHANNEL HD
+http://200.60.124.19:29000/play/a0fs/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="USA SD" tvg-logo="" group-title="peru5",USA SD
+http://200.60.124.19:29000/play/a0a5/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Unknown" tvg-logo="" group-title="peru5",Unknown
+http://200.60.124.19:29000/play/a0e9/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Z.cositel" tvg-logo="" group-title="peru5",Z.cositel
+http://200.60.124.19:29000/play/a0bv/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Zona Latina" tvg-logo="" group-title="peru5",Zona Latina
+http://200.60.124.19:29000/play/a01p/index.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="America TV (tot)" tvg-logo="" group-title="TV-PERU",America TV (tot)
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV (PE)(R)" tvg-logo="" group-title="TV-PERU",ATV (PE)(R)
